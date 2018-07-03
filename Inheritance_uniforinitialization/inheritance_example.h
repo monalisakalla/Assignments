@@ -1,8 +1,13 @@
-
+#include<string.h>
 class Base
 {
+private:
+    int d;
+    int f;
 public:
-
+    Base();
+    Base(int a , int b);
+    ~Base();
     int add(int a, int b);
 };
 
