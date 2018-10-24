@@ -1,5 +1,5 @@
 #include<iostream>
-#include "funcptr_callbacks_example.h"
+#include "../inc/funcptr_callbacks_example.h"
 
 using namespace std;
 

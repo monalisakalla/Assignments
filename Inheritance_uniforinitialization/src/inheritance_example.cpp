@@ -1,5 +1,5 @@
 #include<iostream>
-#include "inheritance_example.h"
+#include "../inc/inheritance_example.h"
 
 using namespace std;
 

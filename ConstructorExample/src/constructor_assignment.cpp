@@ -23,7 +23,7 @@
 
 
 #include <iostream>
-#include "constructor_assignment.h"
+#include "../inc/constructor_assignment.h"
 #include <string>
 
 
@@ -60,7 +60,7 @@ int main(int argc, char **argv)
     Constructor_Example cons_parameter(name);//parameterized constructor will be called
     Constructor_Example cons1(cons);//copy constructor wil be called
     Constructor_Example cons3;
-    cons = cons3;
+    cons = cons3;// Assignment operator will be called
 
     //functor call
     int i = cons(5);

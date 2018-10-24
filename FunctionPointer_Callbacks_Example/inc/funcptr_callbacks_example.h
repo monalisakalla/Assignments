@@ -3,7 +3,7 @@ class FunctionPointer_Example
 {
 public:
 
-    //declaring a function pointer which can point to a function having 2 args ant returns int
+    //function pointer which can point to a function having 2 args ant returns int
     typedef int (*FuncPtr)(int a, int b);
     int addOffSet(FuncPtr ptr);
 

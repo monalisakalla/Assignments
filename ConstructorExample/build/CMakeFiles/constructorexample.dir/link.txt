@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/constructorexample.dir/src/constructor_assignment.cpp.o  -o bin/constructorexample -rdynamic 

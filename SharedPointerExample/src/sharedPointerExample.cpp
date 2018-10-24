@@ -3,7 +3,7 @@
 #include <thread>
 #include <chrono>
 #include <mutex>
-#include "sharedPointerExample.h"
+#include "../inc/sharedPointerExample.h"
 #include <iostream>
 using namespace std;
 

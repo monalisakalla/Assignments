@@ -1,4 +1,4 @@
-#include"template_example.h"
+#include"../inc/template_example.h"
 #include<iostream>
 
 
