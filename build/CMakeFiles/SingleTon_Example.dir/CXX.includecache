@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/SingleTon_Example/inc/singletonexample.h
+iostream
+-
+
+/home/monalisa/Assignments/SingleTon_Example/src/singletonexample.cpp
+../inc/singletonexample.h
+/home/monalisa/Assignments/SingleTon_Example/inc/singletonexample.h
+

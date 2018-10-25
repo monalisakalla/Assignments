@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/ConstructorExample/inc/constructor_assignment.h
+string.h
+-
+
+/home/monalisa/Assignments/ConstructorExample/src/constructor_assignment.cpp
+iostream
+-
+../inc/constructor_assignment.h
+/home/monalisa/Assignments/ConstructorExample/inc/constructor_assignment.h
+string
+-
+

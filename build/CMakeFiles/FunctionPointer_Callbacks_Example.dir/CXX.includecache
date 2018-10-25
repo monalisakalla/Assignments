@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/FunctionPointer_Callbacks_Example/inc/funcptr_callbacks_example.h
+
+/home/monalisa/Assignments/FunctionPointer_Callbacks_Example/src/funcptr_callbacks_example.cpp
+iostream
+-
+../inc/funcptr_callbacks_example.h
+/home/monalisa/Assignments/FunctionPointer_Callbacks_Example/inc/funcptr_callbacks_example.h
+

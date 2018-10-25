@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/Threads/src/Thread_Concept.cpp
+iostream
+-
+unistd.h
+-
+ctime
+-
+pthread.h
+-
+vector
+-
+

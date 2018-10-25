@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/Inheritance_uniforinitialization/inc/inheritance_example.h
+string.h
+-
+
+/home/monalisa/Assignments/Inheritance_uniforinitialization/src/inheritance_example.cpp
+iostream
+-
+../inc/inheritance_example.h
+/home/monalisa/Assignments/Inheritance_uniforinitialization/inc/inheritance_example.h
+

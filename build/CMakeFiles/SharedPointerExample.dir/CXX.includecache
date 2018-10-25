@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Assignments/SharedPointerExample/inc/sharedPointerExample.h
+
+/home/monalisa/Assignments/SharedPointerExample/src/sharedPointerExample.cpp
+iostream
+-
+memory
+-
+thread
+-
+chrono
+-
+mutex
+-
+../inc/sharedPointerExample.h
+/home/monalisa/Assignments/SharedPointerExample/inc/sharedPointerExample.h
+iostream
+-
+
