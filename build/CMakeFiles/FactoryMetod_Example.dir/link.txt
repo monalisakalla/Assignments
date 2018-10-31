@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/FactoryMetod_Example.dir/FactoryMetod_Example/src/factorymethod.cpp.o  -o bin/FactoryMetod_Example -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/Inheritance_uniforinitialization.dir/Inheritance_uniforinitialization/src/inheritance_example.cpp.o  -o bin/Inheritance_uniforinitialization -rdynamic 

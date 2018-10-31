@@ -1,3 +1,0 @@
-/home/monalisa/Assignments/ConstructorExample/build/CMakeFiles/rebuild_cache.dir
-/home/monalisa/Assignments/ConstructorExample/build/CMakeFiles/edit_cache.dir
-/home/monalisa/Assignments/ConstructorExample/build/CMakeFiles/constructorexample.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/ThreadsExample.dir/Threads/src/Thread_Concept.cpp.o  -o bin/ThreadsExample -rdynamic -lpthread 

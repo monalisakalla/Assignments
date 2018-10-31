@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/TemplateExample.dir/TemplateExample/src/template_example.cpp.o  -o bin/TemplateExample -rdynamic 

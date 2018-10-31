@@ -1,0 +1,5 @@
+project(ThreadsExample)
+set(SOURCES src/Thread_Concept)
+find_package(Threads REQUIRED)
+add_executable(ThreadsExample ${SOURCES})
+target_link_libraries (ThreadsExample ${CMAKE_THREAD_LIBS_INIT})

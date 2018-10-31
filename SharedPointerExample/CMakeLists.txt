@@ -1,0 +1,6 @@
+project(SharedPointerExample)
+include_directories(inc)
+set(SOURCES src/sharedPointerExample)
+find_package(Threads REQUIRED)
+add_executable(SharedPointerExample ${SOURCES})
+target_link_libraries (SharedPointerExample ${CMAKE_THREAD_LIBS_INIT})

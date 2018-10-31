@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14   CMakeFiles/SharedPointerExample.dir/SharedPointerExample/src/sharedPointerExample.cpp.o  -o bin/SharedPointerExample -rdynamic -lpthread 

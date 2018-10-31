@@ -1,0 +1,6 @@
+project(MultiThreading_Project)
+include_directories(inc)
+set(SOURCES src/proj_multihreading)
+find_package(Threads REQUIRED)
+add_executable(MultiThreading_Project ${SOURCES})
+target_link_libraries (MultiThreading_Project ${CMAKE_THREAD_LIBS_INIT})
